@@ -1,35 +1,31 @@
-# Hey, I'm Cedric Sarigumba
+Hey there! I'm Cedric! A full-stack developer building with cloud-native and serverless architectures. 👋
 
-Full-stack developer building with cloud-native and serverless architectures.
+## 🚀 My Experience:
 
-## Tech Stack
+- ☕ **Java & Spring**: I build robust backend services and APIs using Spring Boot, with deep experience in enterprise-grade applications.
+- 📱 **Flutter & Dart**: I build cross-platform mobile apps with Flutter, delivering native-quality experiences from a single codebase.
+- 🌐 **TypeScript & Node.js**: I've built serverless APIs and full-stack applications using TypeScript across the stack.
+- ☁️ **AWS & GCP**: I architect cloud-native solutions using AWS and GCP, with hands-on experience in serverless, Terraform, DynamoDB, and PostgreSQL.
 
-**Languages**\
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+## 🔧 Why Choose Me:
 
-**Frameworks & Runtime**\
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- I'm dedicated to delivering high-quality work on time and within budget.
+- I'm a great communicator and love collaborating.
+- I'm constantly learning and adapting to new technologies to stay up-to-speed with the industry.
+- I'm passionate about what I do.
 
-**Cloud & Infrastructure**\
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-**Databases**\
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[Feel free to reach out](mailto:cediesarigumba@gmail.com), and let's start a conversation. 🚀📊
 
 ## GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=csarigumba&show_icons=true&theme=github_dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=csarigumba&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=csarigumba&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csarigumba&layout=compact&hide_border=true" />
 </picture>
 
 ---
