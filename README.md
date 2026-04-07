@@ -37,6 +37,10 @@ Hey there! I'm Cedric! A full-stack developer building with cloud-native and ser
 ![GCP Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![GCP Cloud Digital Leader](https://img.shields.io/badge/GCP-Cloud_Digital_Leader-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
+**Microsoft Azure**\
+![Azure Administrator Associate](https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
 **HashiCorp**\
 ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=flat&logo=terraform&logoColor=white)
 
